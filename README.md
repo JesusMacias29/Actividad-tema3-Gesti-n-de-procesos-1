@@ -49,3 +49,7 @@ OrdenarNumeros.java 🔢: Los números introducidos se muestran ordenados correc
 📄 PDF de la Actividad
 
 El PDF lo puedes encontrar aquí -> 
+
+-> Conclusión <-
+Con esta práctica he entendido mejor cómo funciona un bucle, un array y la generación de números aleatorios en Java, y la verdad que ha sido sencillo y útil para aprender paso a paso usando Eclipse como entorno de desarrollo ya que me gusta más que Intellij.
+
