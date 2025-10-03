@@ -4,10 +4,10 @@
 En esta actividad he desarrollado dos programas en Java usando Eclipse:
 
 Aleatorios.java 🎲
-Genera un número aleatorio según el rango que indique. Practico el uso de bucles, condicionales y la clase Random.
+Genera un número aleatorio según el rango que indique. 
 
 OrdenarNumeros.java 🔢
-Permite introducir varios números y los ordena de menor a mayor. Refuerza el manejo de arrays y la lógica de ordenación.
+Permite introducir varios números y los ordena de menor a mayor. 
 
 🗂️ Estructura de la Carpeta
 Actividad_Java/
